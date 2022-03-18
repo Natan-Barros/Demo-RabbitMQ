@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e5da1135-bf4b-4b0d-bcaa-3dcd5e247c3e": {
+      "ProjectGuid": "e5da1135-bf4b-4b0d-bcaa-3dcd5e247c3e",
+      "DisplayName": "RabbitMQ.Receive",
+      "ColorIndex": 0
+    },
+    "c3f4d3f2-256e-4bea-913a-487378efc390": {
+      "ProjectGuid": "c3f4d3f2-256e-4bea-913a-487378efc390",
+      "DisplayName": "RabbitMQ.Send",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "75c5af00-038b-439b-b10a-47b8bcf2c2bd": {
+      "ProjectGuid": "75c5af00-038b-439b-b10a-47b8bcf2c2bd",
+      "DisplayName": "RabbitMQ.Send",
+      "ColorIndex": 2
+    },
+    "d8d3b775-3a48-41c2-ba62-b14c0645d7c9": {
+      "ProjectGuid": "d8d3b775-3a48-41c2-ba62-b14c0645d7c9",
+      "DisplayName": "NewTask",
+      "ColorIndex": 3
+    },
+    "0ce35b81-caf9-4882-a499-04a9017df375": {
+      "ProjectGuid": "0ce35b81-caf9-4882-a499-04a9017df375",
+      "DisplayName": "Worker",
+      "ColorIndex": 4
+    },
+    "ccd36ff4-cde8-4d0e-8847-2ae831897db7": {
+      "ProjectGuid": "ccd36ff4-cde8-4d0e-8847-2ae831897db7",
+      "DisplayName": "RabbitMQ.Receive",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

@@ -1,0 +1,17 @@
+C:\Users\natan_barros\source\repos\RabbitMQ.Estudos\RabbitMQ.Send\bin\Debug\net6.0\RabbitMQ.Send.exe
+C:\Users\natan_barros\source\repos\RabbitMQ.Estudos\RabbitMQ.Send\bin\Debug\net6.0\RabbitMQ.Send.deps.json
+C:\Users\natan_barros\source\repos\RabbitMQ.Estudos\RabbitMQ.Send\bin\Debug\net6.0\RabbitMQ.Send.runtimeconfig.json
+C:\Users\natan_barros\source\repos\RabbitMQ.Estudos\RabbitMQ.Send\bin\Debug\net6.0\RabbitMQ.Send.dll
+C:\Users\natan_barros\source\repos\RabbitMQ.Estudos\RabbitMQ.Send\bin\Debug\net6.0\ref\RabbitMQ.Send.dll
+C:\Users\natan_barros\source\repos\RabbitMQ.Estudos\RabbitMQ.Send\bin\Debug\net6.0\RabbitMQ.Send.pdb
+C:\Users\natan_barros\source\repos\RabbitMQ.Estudos\RabbitMQ.Send\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\natan_barros\source\repos\RabbitMQ.Estudos\RabbitMQ.Send\obj\Debug\net6.0\RabbitMQ.Send.csproj.AssemblyReference.cache
+C:\Users\natan_barros\source\repos\RabbitMQ.Estudos\RabbitMQ.Send\obj\Debug\net6.0\RabbitMQ.Send.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natan_barros\source\repos\RabbitMQ.Estudos\RabbitMQ.Send\obj\Debug\net6.0\RabbitMQ.Send.AssemblyInfoInputs.cache
+C:\Users\natan_barros\source\repos\RabbitMQ.Estudos\RabbitMQ.Send\obj\Debug\net6.0\RabbitMQ.Send.AssemblyInfo.cs
+C:\Users\natan_barros\source\repos\RabbitMQ.Estudos\RabbitMQ.Send\obj\Debug\net6.0\RabbitMQ.Send.csproj.CoreCompileInputs.cache
+C:\Users\natan_barros\source\repos\RabbitMQ.Estudos\RabbitMQ.Send\obj\Debug\net6.0\RabbitMQ.Send.csproj.CopyComplete
+C:\Users\natan_barros\source\repos\RabbitMQ.Estudos\RabbitMQ.Send\obj\Debug\net6.0\RabbitMQ.Send.dll
+C:\Users\natan_barros\source\repos\RabbitMQ.Estudos\RabbitMQ.Send\obj\Debug\net6.0\ref\RabbitMQ.Send.dll
+C:\Users\natan_barros\source\repos\RabbitMQ.Estudos\RabbitMQ.Send\obj\Debug\net6.0\RabbitMQ.Send.pdb
+C:\Users\natan_barros\source\repos\RabbitMQ.Estudos\RabbitMQ.Send\obj\Debug\net6.0\RabbitMQ.Send.genruntimeconfig.cache
